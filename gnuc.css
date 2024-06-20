@@ -1,0 +1,65 @@
+body{
+  background-color: black;
+  opacity: 10;
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+h1 {
+  text-align: center;
+}
+.container {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  border-radius: 10px;
+  padding: 10px;
+}
+#uin {
+  justify-content: center;
+  background-color: white;
+  align-items:center ;
+  width: 400px;
+  height: 30px;
+margin:auto;
+display:block;
+
+
+
+}
+#submit {
+  margin:auto;
+display:block;
+  width:300px;
+  height: 40px;
+  background-color: blue;
+font-family:Arial;
+letter-spacing:3px;
+font-weight:bold;
+font-size:18px;
+
+  color:white;
+}
+.cen {
+  margin: auto;
+  width: 60%;
+
+}
+#result {
+  color:red;
+  font-size: 20px;
+  font-family: Comic Sans MS;
+align-items: center;
+
+text-align: center;
+}
+#ce {
+  color:white;
+  font-size:22px;
+  font-family: Comic Sans MS;
+  justify-content: center;
+  align-items: center;
+  width:100%;
+text-align: center;
+}
